@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/your-username/nyc-taxi-prediction" alt="Last Commit">
 </p>
 
-This project tackles the [NYC Taxi Trip Duration competition on Kaggle](https://www.kaggle.com/c/nyc-taxi-trip-duration). It showcases a complete machine learning workflow, including in-depth **exploratory data analysis (EDA)**, advanced **feature engineering**, and the implementation of three powerful gradient boosting models: **XGBoost**, **LightGBM**, and **CatBoost**. Finally, it combines these models into an **ensemble** to achieve superior predictive accuracy.
+This project showcases a complete machine learning workflow, including in-depth **exploratory data analysis (EDA)**, advanced **feature engineering**, and the implementation of three powerful gradient boosting models: **XGBoost**, **LightGBM**, and **CatBoost**. Finally, it combines these models into an **ensemble** to achieve superior predictive accuracy.
 
 
 
